@@ -15,7 +15,7 @@ Wireframes are used to see UX, basically the way user will interact with the app
 ![Lobby](Documentation/Lobby.png)
 
 ### Escape
-![Escape](Documentation/Escaoe.png)
+![Escape](Documentation/Escape.png)
 
 ### Breed
 ![Breed](Documentation/Breed.png)
